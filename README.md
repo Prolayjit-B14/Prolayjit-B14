@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prolayjit-B14
+- 👋 Hello, 
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C
 
