@@ -23,7 +23,7 @@
 <h1 align="center">Hi 👋, I'm Prolayjit Biswas</h1>
 <h3 align="center">A passionate Software Newbie</h3>
 
-- 🌱 I’m currently learning **C**
+
 
 - 📫 How to reach me **prolayjitbiswas14112004@gmail.com**
 
