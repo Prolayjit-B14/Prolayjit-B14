@@ -1,73 +1,82 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome gif" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160" alt="Welcome!" />
 </div>
 
----
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate [Your Role] | IoT • Embedded • Web • Open Source</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube Badge" />
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter Badge" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitors" />
+</p>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **[Project Name / Product]**
+- 🌱 I’m learning **[Tech you're exploring]**
+- 💡 Interested in **IoT, Embedded Systems, Security, Real-Time Systems**
+- 🛠️ Building tools to make life safer, smarter, and more connected
+- ⚡ Fun fact: *I automate things just for fun sometimes!*
+
+---
+
+### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitor badge"/>
+  <img title="C/C++" alt="C/C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img title="Arduino" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img title="ESP32" alt="ESP32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" />
+  <img title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
+  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" />
+  <img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
 ---
 
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-
----
-
-### 👩‍💻 About Me
-
-I'm a [your role, e.g., Embedded Systems Engineer, IoT Enthusiast, Full Stack Developer] from [your location].
-
-- 🔭 Currently working on: **[Project/Startup Name]**
-- 📚 Learning: **[Topic or Technology]**
-- 💬 Ask me about: **IoT, ESP32, Embedded C, Firebase, or Arduino**
-- ⚡ Fun fact: *"[A cool or witty statement about you]"*
-
----
-
-### 🛠 Languages & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="CircleCI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-</div>
-
----
-
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=false&border_radius=5&mode=daily" height="200" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark-blue&hide_border=false&border_radius=6&mode=daily" height="200" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=false" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github" height="200" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=false" height="200" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=false" height="200" />
 </div>
 
 ---
 
-### 💬 Let’s Connect!
+### 🚀 Projects Showcase
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 📫 Email: [youremail@example.com](mailto:youremail@example.com)
+| Project | Description | Links |
+|--------|-------------|--------|
+| 🆘 **Women Safety SOS System** | Real-time GPS alert + Email + SMS + Panic triggers using ESP32 | [Repo](https://github.com/yourusername/women-safety-sos) |
+| 💡 **Smart Home Hub** | Firebase-controlled home automation system with Google Assistant integration | [Repo](https://github.com/yourusername/smart-home-hub) |
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💬 Twitter DMs open for collaboration!
+
+---
+
+<p align="center">
+  <i>“Strive not to be a success, but rather to be of value.” – Albert Einstein</i>
+</p>
