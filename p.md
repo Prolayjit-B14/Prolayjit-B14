@@ -2,19 +2,6 @@
 
 # 👋 Hey, I'm [Your Name]
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Full-Stack+Developer+%7C+Hardware+Engineer;Software+%2B+Hardware+%3D+Innovation;Building+Digital+%26+Physical+Solutions;IoT+%7C+Web+%7C+Mobile+%7C+Embedded+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19&height=120&section=header&reversal=false&textBg=false" width="100%" />
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=flat-square&label=Profile+Views)
-
 </div>
 
 ## 🧑‍💻 About Me
