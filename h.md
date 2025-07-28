@@ -4,8 +4,10 @@
 ### I'm [Your Name] - Where Code Meets Innovation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=gradient&background=FF000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full-Stack+%2B+Hardware+Engineer;⚡+Crafting+Digital+%26+Physical+Solutions;🌟+IoT+%7C+Web+%7C+Mobile+%7C+Embedded;💡+Turning+Ideas+Into+Reality" alt="Dynamic Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=gradient&background=FF000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full-Stack+%2B+Hardware+Engineer;⚡+Crafting+Digital+%26+Physical+Solutions;🌟+IoT+%7C+Web+%7C+Mobile+%7C+Embedded;💡+Turning+Ideas+Into+Reality" alt="Dynamic Introduction" />
 </p>
+
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/your-profile">
