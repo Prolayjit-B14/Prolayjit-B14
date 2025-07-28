@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+%2B+Hardware+Engineer;Software+%E2%9A%A1+Hardware+%3D+Magic;IoT+%7C+Web+%7C+Mobile+%7C+Embedded" alt="Typing Animation" />
 <br>
-  <br>
-  <br>
 </p>
 
 
