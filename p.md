@@ -4,47 +4,6 @@
 
 </div>
 
-## 🧑‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
-
-```typescript
-const fullStackEngineer = {
-  name: "Your Name",
-  role: "Software & Hardware Engineer",
-  location: "Your City, Country",
-  experience: "6+ years",
-  
-  domains: {
-    software: ["Web Development", "Mobile Apps", "Backend Systems"],
-    hardware: ["IoT Devices", "Embedded Systems", "PCB Design"],
-    integration: ["Hardware-Software Bridge", "Real-time Systems"]
-  },
-  
-  currentStack: {
-    frontend: ["React", "Next.js", "TypeScript", "React Native"],
-    backend: ["Node.js", "Python", "Go", "PostgreSQL"],
-    hardware: ["ESP32", "Arduino", "STM32", "Raspberry Pi"],
-    cloud: ["AWS", "Firebase", "Docker", "Kubernetes"]
-  },
-  
-  currentFocus: "Building seamless hardware-software ecosystems",
-  philosophy: "Bridge the gap between digital and physical worlds",
-  
-  achievements: [
-    "25+ full-stack applications deployed",
-    "500+ IoT devices in production",
-    "3 hardware products commercialized"
-  ]
-};
-```
-
-🔭 **Currently Building:** Next-gen IoT platform with real-time analytics  
-🌱 **Learning:** Edge AI, WebAssembly, and advanced PCB design  
-💡 **Passion:** Creating solutions that merge software elegance with hardware reliability  
-⚡ **Fun Fact:** Built a smart mirror that runs my entire morning routine!
-
-<br clear="right"/>
 
 ## 🚀 Innovation Showcase
 
