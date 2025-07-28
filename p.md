@@ -3,7 +3,7 @@
 # 👋 Hey, I'm [Your Name]
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer+%7C+Hardware+Engineer;Software+%2B+Hardware+%3D+Innovation;Building+Digital+%26+Physical+Solutions;IoT+%7C+Web+%7C+Mobile+%7C+Embedded+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Full-Stack+Developer+%7C+Hardware+Engineer;Software+%2B+Hardware+%3D+Innovation;Building+Digital+%26+Physical+Solutions;IoT+%7C+Web+%7C+Mobile+%7C+Embedded+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
