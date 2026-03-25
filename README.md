@@ -46,6 +46,12 @@ I am a multifaceted engineer with deep expertise spanning the entire technology 
 <br>
 [![Cloud & DevOps Architecture](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github&theme=light)](https://skillicons.dev)
 
+### 📱 Mobile & Application Development
+[![Mobile Engineering](https://skillicons.dev/icons?i=reactnative,flutter,swift,kotlin&theme=light)](https://skillicons.dev)
+
+### 🛠️ Design & Development Tools
+[![Tools & OS](https://skillicons.dev/icons?i=figma,vscode,git,linux&theme=light)](https://skillicons.dev)
+
 </div>
 
 ---
