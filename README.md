@@ -24,35 +24,27 @@ I am a multifaceted engineer with deep expertise spanning the entire technology 
 
 ## Core Competencies
 
-### 🏢 Silicon & Hardware Engineering
-![Verilog](https://img.shields.io/badge/Verilog-ECECFF?style=flat-square&logo=eclipsesimrel&logoColor=black)
-![FPGA Synthesis](https://img.shields.io/badge/FPGA_Synthesis-ECECFF?style=flat-square&logo=intel&logoColor=black)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5CD39?style=flat-square&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=flat-square&logo=autodesk&logoColor=white)
+<div align="center">
 
-### 🔌 Embedded Systems & IoT
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=flat-square&logo=freertos&logoColor=00f2ff)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+**🏢 Silicon & Hardware Engineering**
+<br>
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,rust&theme=light)](https://skillicons.dev)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![PCB](https://img.shields.io/badge/PCB_Design-4CAF50?style=flat&logo=kicad&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-FF6600?style=flat&logo=xilinx&logoColor=white)
 
-### 💻 Software & Cloud Infrastructure
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**💻 Software & Cloud Infrastructure**
+<br>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=light)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,python,go,postgresql,rust&theme=light)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github&theme=light)](https://skillicons.dev)
 
-### 🧠 AI & Data Integration
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**🧠 AI & Data Integration**
+<br>
+[![AI & Tools](https://skillicons.dev/icons?i=py,tf,opencv,postgres&theme=light)](https://skillicons.dev)
+
+</div>
 
 ---
 
