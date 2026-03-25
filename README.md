@@ -29,59 +29,98 @@ I am a multifaceted engineer with deep expertise spanning the entire technology 
 
 ---
 
-## Technical Professional Competencies
-
 <div align="center">
 
-### ⚙️ Hardware & VLSI
+## ⚡ Engineering Skill Stack
+
+### 🔧 Embedded Systems & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-ECECFF?style=flat-square&logo=eclipsesimrel&logoColor=black)
-![FPGA Synthesis](https://img.shields.io/badge/Intel_FPGA-0068B5?style=flat-square&logo=intel&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=flat-square&logo=freertos&logoColor=00f2ff)
+![Sensor Integration](https://img.shields.io/badge/Sensors-GPS%2C%20Gas%2C%20Soil%2C%20LDR-blue?style=flat-square)
+
+---
+
+### 🌐 Communication Protocols
+![WiFi](https://img.shields.io/badge/WiFi-00897B?style=flat-square)
+![BLE](https://img.shields.io/badge/BLE_Bluetooth-0082FC?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![GPS](https://img.shields.io/badge/GPS-FF5722?style=flat-square)
+![UART](https://img.shields.io/badge/UART-6A1B9A?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-795548?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square)
+
+---
+
+### 🧠 VLSI & Digital Electronics
+![Verilog](https://img.shields.io/badge/Verilog-ECECFF?style=flat-square)
+![Digital Logic](https://img.shields.io/badge/Digital_Logic-FF9500?style=flat-square)
+![RTL Design](https://img.shields.io/badge/RTL_Design-555555?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-0068B5?style=flat-square&logo=intel&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-222C37?style=flat-square&logo=xilinx&logoColor=white)
 
-### 🔌 Embedded Systems & IoT
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=flat-square&logo=freertos&logoColor=00f2ff)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+---
 
-### 💻 Software & App Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-### 🕸️ Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🧠 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### 📋 PCB Design, CAD & CAM
+### 🔌 Circuit Design & PCB Design
+![Electronic Circuit Design](https://img.shields.io/badge/Circuit_Design-FF6F00?style=flat-square)
+![PCB Design](https://img.shields.io/badge/PCB_Design-4CAF50?style=flat-square)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5CD39?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1A65B9?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=flat-square&logo=autodesk&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FF6C37?style=flat-square)
+![Proteus](https://img.shields.io/badge/Proteus-1A65B9?style=flat-square)
 
-### 🛠️ Design & Development Tools
+---
+
+### 🖥️ CAD / CAM / 3D Design & Prototyping
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=flat-square&logo=autodesk&logoColor=white)
+![CAD Design](https://img.shields.io/badge/CAD_Modeling-009688?style=flat-square)
+![CAM](https://img.shields.io/badge/CAM-795548?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF6C37?style=flat-square)
+![Product Prototyping](https://img.shields.io/badge/Product_Prototype-607D8B?style=flat-square)
+
+---
+
+### 🚁 Robotics / Drone / UAV Systems
+![Robotics](https://img.shields.io/badge/Robotics-3F51B5?style=flat-square)
+![Drone UAV](https://img.shields.io/badge/Drone_UAV-455A64?style=flat-square)
+![Embedded Control](https://img.shields.io/badge/Embedded_Control-00897B?style=flat-square)
+
+---
+
+### 💻 Web & App Development (IoT Dashboard)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-34A853?style=flat-square)
+![IoT Dashboard UI](https://img.shields.io/badge/IoT_Dashboard-FF9800?style=flat-square)
+
+---
+
+### 🎨 Design, UI & Presentation Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![System Diagrams](https://img.shields.io/badge/System_Diagram-607D8B?style=flat-square)
+![Technical Docs](https://img.shields.io/badge/Technical_Documentation-455A64?style=flat-square)
+
+---
+
+### 🤖 AI Assisted Development Tools
+![Antigravity AI](https://img.shields.io/badge/Antigravity_AI-4A154B?style=flat-square)
+![Gamma AI](https://img.shields.io/badge/Gamma_AI-6A1B9A?style=flat-square)
+![Napkin AI](https://img.shields.io/badge/Napkin_AI-795548?style=flat-square)
+![AI Coding](https://img.shields.io/badge/AI_Assisted_Coding-009688?style=flat-square)
+
+---
+
+### 🛠️ Development & Debug Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![AI Assisted Coding](https://img.shields.io/badge/Antigravity_AI-4A154B?style=flat-square)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Serial Debugging](https://img.shields.io/badge/Serial_Debugging-6A1B9A?style=flat-square)
 
 </div>
 
