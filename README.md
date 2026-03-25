@@ -33,24 +33,56 @@ I am a multifaceted engineer with deep expertise spanning the entire technology 
 
 <div align="center">
 
-### 🏢 Silicon & Hardware Engineering
-[![Hardware Engineering](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,rust&theme=light)](https://skillicons.dev)
+### ⚙️ Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-### 🔌 Embedded Systems & Edge Intelligence
-[![Embedded Systems](https://skillicons.dev/icons?i=py,tf,opencv&theme=light)](https://skillicons.dev)
+### 🌐 IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
-### 💻 Software & Cloud Infrastructure
-[![Frontend Engineering](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=light)](https://skillicons.dev)
-<br>
-[![Backend Engineering](https://skillicons.dev/icons?i=nodejs,go,postgresql,postgres&theme=light)](https://skillicons.dev)
-<br>
-[![Cloud & DevOps Architecture](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github&theme=light)](https://skillicons.dev)
+### 🔌 Embedded Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20232A?style=flat-square&logo=freertos&logoColor=00f2ff)
 
-### 📱 Mobile & Application Development
-[![Mobile Engineering](https://skillicons.dev/icons?i=reactnative,flutter,swift,kotlin&theme=light)](https://skillicons.dev)
+### 💻 Software
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 🛠️ Design & Development Tools
-[![Tools & OS](https://skillicons.dev/icons?i=figma,vscode,git,linux&theme=light)](https://skillicons.dev)
+### 🧠 AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TinyML](https://img.shields.io/badge/TinyML-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### 🕸️ Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### 📱 App Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 📋 PCB Design
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5CD39?style=flat-square&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white)
+
+### 🔬 VLSI
+![Verilog](https://img.shields.io/badge/Verilog-ECECFF?style=flat-square&logo=eclipsesimrel&logoColor=black)
+![FPGA Synthesis](https://img.shields.io/badge/Intel_FPGA-0068B5?style=flat-square&logo=intel&logoColor=white)
+
+### 📐 Circuit Design
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F36E21?style=flat-square&logo=autodesk&logoColor=white)
 
 </div>
 
